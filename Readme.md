@@ -8,7 +8,7 @@ project-folder/
 │── index.html
 │── README.md
 
-## ▶️ How to Run
+## How to Run
 1. Double-click on `index.html` OR Right-click → Open with any web browser.
 
 ## Technologies Used
